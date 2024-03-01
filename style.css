@@ -1,0 +1,31 @@
+.a {
+    background-color: #ffbb00ec;
+    width: 500px;
+    height: 500px
+}
+
+.b {
+    background-color: #69f50b;
+    width: 50%;
+    height: 50%
+}
+
+.mensagem {
+    color: #FFFFFF;
+    background-color: #c50f0f;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold
+}
+
+.c {
+    background-color: rgb(88, 171, 238);
+    width: 50vw;
+    height: 75vh
+}
+
+.d {
+    background-color: rgb(255, 0, 0);
+    width: 75vw;
+    height: 50%
+}
